@@ -1,0 +1,26 @@
+{
+  "GET": {
+    "welcome/" : {
+      "json_response": {"message":  "Automated Sample API", "payload":  "Get API Config working successful"},
+      "headers": {"Content-type": "application/json"}
+    }
+  },
+  "PUT": {
+    "welcome/" : {
+      "json_response": {"message":  "Automated Sample API", "payload":  "PUT API Config working successful"},
+      "headers": {"Content-type": "application/json"}
+    }
+  },
+  "POST": {
+    "welcome/" : {
+      "json_response": {"message":  "Automated Sample API", "payload":  "POST API Config working successful"},
+      "headers": {"Content-type": "application/json"}
+    }
+  },
+  "DELETE": {
+    "welcome/" : {
+      "json_response": {"message":  "Automated Sample API", "payload":  "DELETE API Config working successful"},
+      "headers": {"Content-type": "application/json"}
+    }
+  }
+}
